@@ -243,15 +243,6 @@
     "detailLink": ""
   },
   {
-    "mainCategory": "skill",
-    "subCategory": "video",
-    "image": "assets/img/skills/video-editor.webp",
-    "title": "Video Editing",
-    "description": "Creating and editing professional-quality videos.",
-    "demoLink": "",
-    "detailLink": ""
-  },
-  {
     "mainCategory": "project",
     "subCategory": "Graphic Design",
     "image": "assets/img/project/design/D1.webp",
